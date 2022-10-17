@@ -3,8 +3,8 @@ layout: page
 title: HackEvent 22 @ Virginia Tech
 subtitle: Oct 28-30 - 2022 Virginia Tech - Blacksburg, VA
 use-site-title: true
-header-img: "https://dynn-icml2022.github.io/img/logo.jpg"
-share-img: "https://dynn-icml2022.github.io/img/logo.jpg"
+header-img: "https://brand.vt.edu/content/brand_vt_edu/en/identity/logo-guidelines/jcr:content/content/adaptiveimage.transform/xl-medium/image.jpg"
+share-img: "https://brand.vt.edu/content/brand_vt_edu/en/identity/logo-guidelines/jcr:content/content/adaptiveimage.transform/xl-medium/image.jpg"
 ---
 
 <!-- <div class="sharethis-inline-share-buttons"></div>
@@ -20,16 +20,17 @@ HACKEVENT 2022 will be a hybrid 2-2.5 day event organised by Advanced Research c
 
 <!-- * [Link to the **live sessions** at Hackevent website](https://www.youtube.com). Note that registration to the hackevent is required in order to access the ARC resources. -->
 
-
-**Submission Deadline:** May 31, 2022 (Anywhere on Earth) <br>
-**Author Notification:** June 13, 2022 <br>
-**Sessions by Open OnDemand:** June 28th, 2022 <br>
-**Session by Nueral Magic:** July 9, 2022 <br>
 **KeyNote:** Oct 28, 2022- 5PM by Dr Wu Feng
+**Registration Deadline:** Oct 25, 2022 (Anywhere on Earth) <br>
+**Account Access ARC Resources:** Oct 26, 2022 <br>
+**IBM Sessions:** Oct 28-30th, 2022 <br>
+**Sessions by Open OnDemand:** Oct 30th, 2022 <br>
+**Session by Neural Magic:** Oct 29th, 2022 <br>
+
 
 <hr>
 
-# Speakers [(More Info)](https://dynn-icml2022.github.io/speakers/)
+# Speakers [(More Info)](https://hackevent22.github.io/speakers/)
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <div class="row">
   <h2> Keynote Speakers </h2>
@@ -83,7 +84,7 @@ HACKEVENT 2022 will be a hybrid 2-2.5 day event organised by Advanced Research c
 <hr>
 
 
-# Program Committee
+# Key Note by:
 <!-- prettier-ignore -->
 <!-- original list class in the template
   <ul class="list-group list-group-flush">
@@ -98,7 +99,7 @@ HACKEVENT 2022 will be a hybrid 2-2.5 day event organised by Advanced Research c
 </div>
 <hr>
 
-# Reviewers
+# Sponsors
 <!-- prettier-ignore -->
 <!-- original list class in the template
   <ul class="list-group list-group-flush">
