@@ -8,24 +8,24 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "https://dynn-icml2022.github.io"
+url: "https://hackevent22.github.io"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: DyNN Workshop
+title: HackEvent22
 
 # Short description of your site
-description: Dynamic Neural Networks Workshop at ICML'22
+description: HackEvent 22 at Virgia Tech
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:  
   Home: 'index'
-  Call: "cfp"
+  Agenda: "agenda"
   Speakers: "speakers"
-  Papers: "papers"
+  Registration: "registration"
   Schedule: "schedule"
   Organizers: "#organizers"
 
