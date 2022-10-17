@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Workshop on Dynamic Neural Networks
-subtitle: Friday, July 22 - 2022 International Conference on Machine Learning - Baltimore, MD
+title: HackEvent 22 @ Virginia Tech
+subtitle: Oct 28-30 - 2022 Virginia Tech - Blacksburg, VA
 use-site-title: true
 header-img: "https://dynn-icml2022.github.io/img/logo.jpg"
 share-img: "https://dynn-icml2022.github.io/img/logo.jpg"
@@ -11,26 +11,21 @@ share-img: "https://dynn-icml2022.github.io/img/logo.jpg"
 <meta name="thumbnail" content="./img/logo.png" /> -->
 
 # Overview
-Deep networks have shown outstanding scaling properties both in terms of data and model sizes: larger performs better. Unfortunately, the computational cost of current state-of-the-art methods is prohibitive. A number of new techniques have recently arisen to address and improve this fundamental quality-cost trade-off. Methods like conditional computation, adaptive computation, dynamic model sparsification, and early-exit approaches aim to address the above mentioned quality-cost trade off. This workshop explores such exciting and practically-relevant research avenues. As part of contributed content we will invite high-quality papers on the following topics: dynamic routing, mixture-of-experts models, early-exit methods, conditional computations, capsules and object-oriented learning, reusable components, online network growing and pruning, online neural architecture search and applications of dynamic networks (continual learning, wireless/embedded devices and similar topics).
-
-The 1st Dynamic Neural Networks workshop will be a [hybrid workshop at ICML 2022](https://icml.cc/Conferences/2022/Schedule?showEvent=13451) on July 22, 2022. Our goal is to advance the general discussion of the topic by highlighting contributions proposing innovative approaches regarding dynamic neural networks.
-
+HACKEVENT 2022 will be a hybrid 2-2.5 day event organised by Advanced Research computing at Virginia Tech. The goal of this event is to educate students empirically on how to efficiently leverage computer architecture and software for heterogeneous applications and develop critical thinking towards synergistic evaluation of software and hardware for applications ranging from artificial intelligence to distributed systems.  The event will feature guest lectures, hands-on training sessions and tutorials from professionals in industry and academia.  The event will be free for students currently pursuing a degree in any academic institution. The event will take place in Eastern Time Zone (New York).  Upon successful completion of the event the students will receive a completion certificate and prizes for a mini competition also to be held with the event.
 
 **Announcements**
-* The recording of our workshop is [available](https://icml.cc/virtual/2022/workshop/13451) now!
-* Workshop schedule is [announced](https://dynn-icml2022.github.io/schedule/)!
-* Accepted papers (poster and oral presentations) are [announced](https://dynn-icml2022.github.io/papers/). Congratulations to all authors!
-* [Microsoft CMT Submission portal](https://cmt3.research.microsoft.com/DyNN2022/) is now open! 
+* Our Flyer is out Now!!! Check [this ou] (./poster-blue.pdf) 
+* Our schedule is [announced](https://dynn-icml2022.github.io/schedule/)!
+* Our Speakers are finalized and [available] (https://hackevent22.github.io/) now!
 
-<!-- * [Link to the **live sessions** at ICML website](https://www.youtube.com). Note that registration to the ICML main conference is required in order to access the website. -->
-<!-- * Congratulations to winners of **best paper award**, "Placeholder paper title", by Placeholder Placeholder and Placeholder Placeholder! -->
+<!-- * [Link to the **live sessions** at Hackevent website](https://www.youtube.com). Note that registration to the hackevent is required in order to access the ARC resources. -->
 
 
 **Submission Deadline:** May 31, 2022 (Anywhere on Earth) <br>
 **Author Notification:** June 13, 2022 <br>
-**Video Deadline:** June 28th, 2022 <br>
-**Camera Ready Deadline:** July 9, 2022 <br>
-**Workshop Day:** July 22, 2022
+**Sessions by Open OnDemand:** June 28th, 2022 <br>
+**Session by Nueral Magic:** July 9, 2022 <br>
+**KeyNote:** Oct 28, 2022- 5PM by Dr Wu Feng
 
 <hr>
 
