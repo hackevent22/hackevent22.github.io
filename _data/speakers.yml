@@ -1,9 +1,9 @@
-Huang:
-    name: "Gao Huang"
-    url: "http://www.gaohuang.net/"
-    affiliation: "Tsinghua University"
-    img: "huang.png"
-    bio: "Prof. Huang is actively working on efficient deep learning, dynamic neural networks, learning with limited data and reinforcement learning. His work on DenseNet won the Best Paper Award of CVPR (2017) and has collected more than 25,000 citations according to Google Scholar."
+feng:
+    name: "Dr Wu Feng"
+    url: "http://synergy.cs.vt.edu/"
+    affiliation: "Virginia Tech"
+    img: "wu.jpg"
+    bio: "Dr. Feng is a faculty in Dept. of CS, ECE and BEAM he is also the Director of NSF SHREC center and a Turner Fellow in deptt. of ECE."
 
 Sun:
     name: "Weinan Sun"
