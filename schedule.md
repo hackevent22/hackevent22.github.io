@@ -1,15 +1,16 @@
 ---
 layout: page
-title: Workshop on Dynamic Neural Networks
-subtitle: Friday, July 22 - 2022 International Conference on Machine Learning - Baltimore, MD
+title: HackEvent 22 @ Virginia Tech
+subtitle: Oct 28-30 - 2022 Virginia Tech - Blacksburg, VA
 use-site-title: true
-header-img: "https://dynn-icml2022.github.io/img/logo.jpg"
-share-img: "https://dynn-icml2022.github.io/img/logo.jpg"
+header-img: "https://brand.vt.edu/content/brand_vt_edu/en/identity/logo-guidelines/jcr:content/content/adaptiveimage.transform/xl-medium/image.jpg"
+share-img: "https://brand.vt.edu/content/brand_vt_edu/en/identity/logo-guidelines/jcr:content/content/adaptiveimage.transform/xl-medium/image.jpg"
 ---
+
 
 # Schedule
 
-#### Friday, July 22, 2022 
+#### Friday, Oct 22, 2022 
 #### Location: TBA
 #### All times are in ET 
 
