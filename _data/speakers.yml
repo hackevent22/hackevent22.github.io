@@ -5,30 +5,30 @@ feng:
     img: "wu.jpg"
     bio: "Dr. Feng is a faculty in Dept. of CS, ECE and BEAM he is also the Director of NSF SHREC center and a Turner Fellow in deptt. of ECE."
 
-Sun:
-    name: "Weinan Sun"
-    url: "https://www.janelia.org/people/weinan-sun"
-    affiliation: "Janelia Research Campus"
-    img: "sun.jpg"
-    bio: "Dr. Sun is a theoretical neuroscientist also active in the deep learning community. Dr.Sun's work is centered around memory, in particular on how memories are dynamically consolidated for better generalisation. His work has been published in top tier journals, such as Nature and Nature Neuroscience,and it has had a strong impact on the related fields."
+kulina:
+    name: "James Kulina"
+    url: "https://www.linkedin.com/in/james-kulina"
+    affiliation: "Executive Director Open Power"
+    img: "kulina.jpg"
+    bio: "Executive Director Open Power"
 
-Tuytelaars:
-    name: "Tinne Tuytelaars"
+boris:
+    name: "Boris Shingarov"
     url: "https://homes.esat.kuleuven.be/~tuytelaa/"
     affiliation: "KU Leuven"
     img: "tuytelaars.jpeg"
     bio: "Prof. Tuytelaars' research focuses on dynamic neural networks, continual learning and representation learning for computer vision. As a recognized expert in this field, she has collected over 59,000 citations, received several awards and was Program Chair of ECCV'14 and CVPR'21, among other things."
 
-XHuang:
-    name: "Xuanjing Huang"
-    url: "https://nlp.fudan.edu.cn/28702/list.htm"
-    affiliation: "Fudan University"
-    img: "xhuang.jpg"
-    bio: "Prof. Huang's research interest includes natural language processing, information retrieval, artificial intelligence and deep learning, including research on structural and reusable information inside large language models. She has published over 130 papers in major NLP, AI and IR conferences andjournals."
+jan:
+    name: "Jan Vrany"
+    url: "https://www.linkedin.com/in/jan-vrany-77091319/"
+    affiliation: "Labware Inc, Canada"
+    img: "jan.jpg"
+    bio: "VM Engineer"
 
-Locatello:
-    name: "Francesco Locatello"
-    url: "https://www.amazon.science/author/francesco-locatello"
-    affiliation: "AWS AI"
-    img: "locatello.jpg"
-    bio: "Dr. Locatello has published seminal papers in the fields of causal representationlearning, independent mechanisms, and slot attention, for which he has won several awards, including a best paper award at ICML and the ETH medal for outstanding doctoral dissertation. He has co-organized the 1st International Conference on Causal Learning and Reasoning (CLeaR)."
+mark:
+    name: "Mark Kurtz"
+    url: "https://www.linkedin.com/in/markkurtzjr/"
+    affiliation: "Neural Magic"
+    img: "mark.jpg"
+    bio: "Leader of ML and engineering teams focused on the design, development, and implementation of cutting-edge technologies and products. With over 12 years of experience in software engineering and machine learning, well-practiced in building and managing teams for both closed source and open source software solutions. Currently the Director of Machine Learning at Neural Magic, I am focused on lowering the cost, improving the performance, and increasing the adoption of deep learning technologies through SOTA research and engineering. An active GitHub contributor, blogger, and researcher with published papers in top ML conferences. Holds a Master's degree in robotics engineering from Washington University in St Louis along with a bachelors in applied math and a bachelor's in mechanical engineering."
