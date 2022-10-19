@@ -14,9 +14,9 @@ share-img: "https://brand.vt.edu/content/brand_vt_edu/en/identity/logo-guideline
 HACKEVENT 2022 will be a hybrid 2-2.5 day event organised by Advanced Research computing at Virginia Tech. The goal of this event is to educate students empirically on how to efficiently leverage computer architecture and software for heterogeneous applications and develop critical thinking towards synergistic evaluation of software and hardware for applications ranging from artificial intelligence to distributed systems.  The event will feature guest lectures, hands-on training sessions and tutorials from professionals in industry and academia.  The event will be free for students currently pursuing a degree in any academic institution. The event will take place in Eastern Time Zone (New York).  Upon successful completion of the event the students will receive a completion certificate and prizes for a mini competition also to be held with the event.
 
 **Announcements**
-* Our Flyer is out Now!!! Check [this out] (./posterblue.pdf) 
+* Our Flyer is out Now!!! Check [this out](./posterblue.pdf) 
 * Our schedule is [announced](https://hackevent22.github.io/schedule/)!
-* Our Speakers are finalized and [available] (https://hackevent22.github.io/) now!
+* Our Speakers are finalized and [available](https://hackevent22.github.io/) now!
 
 <!-- * [Link to the **live sessions** at Hackevent website](https://www.youtube.com). Note that registration to the hackevent is required in order to access the ARC resources. -->
 
@@ -35,7 +35,7 @@ HACKEVENT 2022 will be a hybrid 2-2.5 day event organised by Advanced Research c
   <div class="row">
   <h2> Keynote Speakers </h2>
   {% for p in site.data.speakers %}
-  {% if forloop.index<=2 %}
+  {% if forloop.index<=5 %}
   {% capture id %}{{ p[0] }}{% endcapture %}
   {% include profile.html p=p %}
   {% endif %}
@@ -45,7 +45,7 @@ HACKEVENT 2022 will be a hybrid 2-2.5 day event organised by Advanced Research c
   <div class="row">
   {% for p in site.data.speakers %}
   {% capture id %}{{ p[0] }}{% endcapture %}
-  {% if forloop.index>2%}
+  {% if forloop.index>5 %}
   {% include profile.html p=p %}
   {% endif %}
   {% endfor %}
@@ -68,12 +68,12 @@ HACKEVENT 2022 will be a hybrid 2-2.5 day event organised by Advanced Research c
   <div class="row">
   {% for p in site.data.organizers %}
   {% capture id %}{{ p[0] }}{% endcapture %}
-  {% if forloop.index>4 and forloop.index<=6%}
+  {% if forloop.index>4 and forloop.index<=8%}
   {% include profile.html p=p %}
   {% endif %}
   {% endfor %}
   </div>
-  <h1> Panel Chairs </h1>
+  <h1> Sponsors </h1>
   <div class="row">
   {% for p in site.data.panelchairs %}
   {% capture id %}{{ p[0] }}{% endcapture %}
@@ -90,29 +90,10 @@ HACKEVENT 2022 will be a hybrid 2-2.5 day event organised by Advanced Research c
   <ul class="list-group list-group-flush">
       <li class="list-group-item col-xs-6 col-sm-4 col-md-3">{{ p }}</li> 
 <h3>Confirmed:</h3>-->
-<div class="container">
-  <ul class="mb-3">
-    {% for p in site.data.pc.people %}
-      <li class="mb-3">{{ p }}</li>
-    {% endfor %}
-  </ul>
-</div>
+
 <hr>
 
-# Sponsors
-<!-- prettier-ignore -->
-<!-- original list class in the template
-  <ul class="list-group list-group-flush">
-      <li class="list-group-item col-xs-6 col-sm-4 col-md-3">{{ p }}</li> 
-<h3>Confirmed:</h3>-->
-<div class="container">
-  <ul class="mb-3">
-    {% for p in site.data.pc.reviewers %}
-      <li class="mb-3">{{ p }}</li>
-    {% endfor %}
-  </ul>
-</div>
-<hr>
+
 
 
 
@@ -131,4 +112,4 @@ HACKEVENT 2022 will be a hybrid 2-2.5 day event organised by Advanced Research c
 
 <hr>
 
-Contact: [icmldynamicnn@gmail.com](mailto:icmldynamicnn@gmail.com)
+Contact: [hackevent-22g@vt.edu](hackevent-22g@vt.edu)
