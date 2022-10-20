@@ -14,12 +14,12 @@ invited2:
   start: "Oct 28  5:45 PM - 6:15 PM"
   type: "Invited"
 invited3:
-  event: boris
+  event: "boris"
   title: "Contributing to vertical open source"
   start: "Oct 28  6:15 PM - 6:45 PM"
   type: "Invited"
 invited4:
-  event: mark
+  event: "mark"
   title: "Introduction to Sparsity in Deep Learning"
   start: "Oct 28  6:45 PM - 7:00 PM"
   type: "Invited"
@@ -29,7 +29,7 @@ contrib4:
   start: "Oct 29  11:00 AM - 1:00 PM"
   type: "Contributed"
 invited5:
-  event: peter
+  event: "peter"
   title: "Open power ISA and MMA features in POWER 10 CPU"
   start: "Oct 28  1:00 PM - 2:00 PM"
   type: "Invited"
@@ -38,12 +38,12 @@ sess1:
   start: "Oct 29 2.00 PM - 3:00 PM"
   type: "Session"
 invited6:
-  event: farhang
+  event: "farhang"
   title: "Heterogeneous Integration of OpenPower Cores"
   start: "Oct 29  3:00 PM - 4:00 PM"
   type: "Invited"
 invited7:
-  event: stdh
+  event: "stdh"
   title: "A Demo on FPGA simulation and RTL to GDS II Flow"
   start: "Oct 29  4:00 PM - 5:00 PM"
   type: "Invited"
@@ -52,22 +52,22 @@ sess1:
   start: "Oct 29 5.00 PM"
   type: "Session"
 invited8:
-  event: ayush
+  event: "ayush"
   title: "Deep Learning @ Scale (Lecture)"
   start: "Oct 29  11:00 AM - 12:00 PM"
   type: "Invited"
 invited10:
-  event: eric
+  event: "eric"
   title: "mayflower Autonomous Ship and Enterprise AI"
   start: "Oct 29  11:00 AM - 12:00 PM"
   type: "Invited"
 invited11:
-  event: ayush
+  event: "ayush"
   title: "Profiling and Optimizing Deep Learning Applications (Hands-On)"
   start: "Oct 29  12:00 PM - 1:00 PM"
   type: "Invited"
 invited12:
-  event: ander
+  event: "ander"
   title: "Open Shift and Use Cases"
   start: "Oct 29  12:00 PM - 1:00 PM"
   type: "Invited"  
@@ -77,32 +77,32 @@ sess21:
   type: "Session"
 
 invited13:
-  event: robert
+  event: "robert"
   title: "Overview and tutorial on Docker and Singularity"
   start: "Oct 30  2:00 PM - 3:00 PM"
   type: "Invited"
 invited14:
-  event: panda
+  event: "panda"
   title: "Distributed Deep Learning using POWER Foundation"
   start: "Oct 30  2:00 PM - 3:00 PM"
   type: "Invited"
 invited15:
-  event: mayank
+  event: "mayank"
   title: "Creating Interactive and Passenger Application with Open OnDemand"
   start: "Oct 30  3:00 PM - 4:00 PM"
   type: "Invited"
 invited16:
-  event: florin
+  event: "florin"
   title: "Enterprise AI Solutions and Demo"
   start: "Oct 30  4:00 PM - 5:00 PM"
   type: "Invited"
 invited17:
-  event: jenna
+  event: "jenna"
   title: "POWER Developer Exchange and PSAI update"
   start: "Oct 30  4:00 PM - 5:00 PM"
   type: "Invited"
 invited18:
-  event: ayush
+  event: "ayush"
   title: "Migrating your custom Jupyter Notebook to ARC resources"
   start: "Oct 30  4:00 PM - 5:00 PM"
   type: "Invited"  
