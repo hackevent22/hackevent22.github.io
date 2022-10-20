@@ -23,55 +23,55 @@ invited4:
   title: "Introduction to Sparsity in Deep Learning"
   start: "Oct 28  6:45 PM - 7:00 PM"
   type: "Invited"
-contrib4:
+invited5:
   event: "Lecture on Sparsity + Leveraging the Sparse-ML Library  (Hands-On)"
   author: "Neural Magic"
   start: "Oct 29  11:00 AM - 1:00 PM"
   type: "Contributed"
-invited5:
+invited6:
   event: "peter"
   title: "Open power ISA and MMA features in POWER 10 CPU"
-  start: "Oct 28  1:00 PM - 2:00 PM"
+  start: "Oct 29  1:00 PM - 2:00 PM"
   type: "Invited"
 sess1:
   event: "Lunch Break"
-  start: "Oct 29 2.00 PM - 3:00 PM"
+  start: "Oct 29  2.00 PM - 3:00 PM"
   type: "Session"
-invited6:
+invited7:
   event: "farhang"
   title: "Heterogeneous Integration of OpenPower Cores"
   start: "Oct 29  3:00 PM - 4:00 PM"
   type: "Invited"
-invited7:
+invited8:
   event: "stdh"
   title: "A Demo on FPGA simulation and RTL to GDS II Flow"
   start: "Oct 29  4:00 PM - 5:00 PM"
   type: "Invited"
-sess1:
+sess2:
   event: "Lab I"
-  start: "Oct 29 5.00 PM"
+  start: "Oct 29  5:00 PM - 5:30 PM"
   type: "Session"
-invited8:
+invited9:
   event: "ayush"
   title: "Deep Learning @ Scale (Lecture)"
-  start: "Oct 29  11:00 AM - 12:00 PM"
+  start: "Oct 30  11:00 AM - 12:00 PM"
   type: "Invited"
 invited10:
   event: "eric"
   title: "mayflower Autonomous Ship and Enterprise AI"
-  start: "Oct 29  11:00 AM - 12:00 PM"
+  start: "Oct 30  11:00 AM - 12:00 PM"
   type: "Invited"
 invited11:
   event: "ayush"
   title: "Profiling and Optimizing Deep Learning Applications (Hands-On)"
-  start: "Oct 29  12:00 PM - 1:00 PM"
+  start: "Oct 30  12:00 PM - 1:00 PM"
   type: "Invited"
 invited12:
   event: "ander"
   title: "Open Shift and Use Cases"
-  start: "Oct 29  12:00 PM - 1:00 PM"
-  type: "Invited"  
-sess21:
+  start: "Oct 30  12:00 PM - 1:00 PM"
+  type: "Invited"
+sess3:
   event: "Lunch Break"
   start: "Oct 30 1:00 PM - 2:00 PM"
   type: "Session"
@@ -105,7 +105,7 @@ invited18:
   event: "ayush"
   title: "Migrating your custom Jupyter Notebook to ARC resources"
   start: "Oct 30  4:00 PM - 5:00 PM"
-  type: "Invited"  
+  type: "Invited"
 closing:
   event: "Closing Remarks"
   start: "5:15 PM"
