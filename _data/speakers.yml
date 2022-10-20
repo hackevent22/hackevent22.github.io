@@ -87,13 +87,7 @@ robert:
     affiliation: "Advacned Research Computing @ VT"
     img: "robert.jpg"
     bio: "As a senior data science and data analytics leader, He work at the intersection of data, statistics, and computational science. His entire career has been dedicated to generating, processing, and ultimately, making sense of data to enable insights and discoveries."
-ganesan:
-    name: "Ganesan Narayanasamy"
-    url: "https://www.linkedin.com/in/ganesannarayanasamy/"
-    affiliation: "IBM"
-    img: "ganesan.jpg"
-    bio: "As senior Technical Computing and client care manager, Ganesh's responsibilities include building the IBM technical computing brand across Growth Market Unit and strengthening the Platform computing offerings. In addition , he frequently conducts several technical enablement programs
-for business partners, customers and University faculties. He travelled across entire GMU and planning to capture market opportunities for IBM. "
+
 mayank:
     name: "Mayank Agarwal"
     url: "https://www.linkedin.com/in/magrwl/"
@@ -106,17 +100,4 @@ ayush:
     affiliation: "Advacned Research Computing @ VT"
     img: "ayush.jpg"
     bio: "Research Assistant"
-antorip:
-    name: "Antorip Sahu"
-    url: "https://www.linkedin.com/in/antoripsahu/"
-    affiliation: "Wireless @ VT"
-    img: "antorip.jpg"
-    bio: "Research Assistant"
-nolan:
-    name: "Nolan Donovan"
-    url: "https://www.linkedin.com/in/nolan-donovan/"
-    affiliation: "IEEE @ VT"
-    img: "antorip.jpg"
-    bio: "President (IEEE@VT) | Currently a Virginia Tech Computer Engineering student studying Networking and Cybersecurity with a secondary focus in Chip-Scale Integration."
-    
 
