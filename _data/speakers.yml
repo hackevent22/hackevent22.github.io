@@ -32,6 +32,55 @@ mark:
     affiliation: "Neural Magic"
     img: "mark.jpg"
     bio: "Leader of ML and engineering teams focused on the design, development, and implementation of cutting-edge technologies and products. With over 12 years of experience in software engineering and machine learning, well-practiced in building and managing teams for both closed source and open source software solutions. Currently the Director of Machine Learning at Neural Magic, I am focused on lowering the cost, improving the performance, and increasing the adoption of deep learning technologies through SOTA research and engineering. An active GitHub contributor, blogger, and researcher with published papers in top ML conferences. Holds a Master's degree in robotics engineering from Washington University in St Louis along with a bachelors in applied math and a bachelor's in mechanical engineering."
+peter:
+    name: "Peter Hofstee"
+    url: "https://www.linkedin.com/in/peter-hofstee-6b4886b/"
+    affiliation: "IBM"
+    img: "peter.jpg"
+    bio: "RSM, Hybrid and Workload-Optimized Systems"
+farhang:
+    name: "Farhang Yazdani"
+    url: "https://www.linkedin.com/in/farhang-yazdani-b546083/"
+    affiliation: "BroadPak Corporation"
+    img: "farhan.jpg"
+    bio: "President and CTO"
+stdh:
+    name: "Dr. Satyadhyan"
+    url: "https://www.linkedin.com/in/chickerursr/"
+    affiliation: "K L E Technological University"
+    img: "farhan.jpg"
+    bio: "Satyadhyan Chickerur received his B.E degree in E&C, M.Tech in CSE and PhD in Computer and Information Sciences. He is presently Professor at School of Computer Science and Engineering and head of Centre for High Performance Computing at KLE Technological University, Hubli. He has served as faculty in various engineering colleges in India.  He is a member of ISTE, IEEE and ACM. He was the Execom member of IEEE signal processing society, Bangalore chapter (2007-2009). He was a Member of Intel - IISC - VTU multicore Curriculum Development committee. He was one of the judges and problem setter for ACM ICPC programming contest of the Asia Regional's in the year 2007 and 2008. He has received various grants from industry and other Organisations for research as well."
+eric:
+    name: "Eric Aquaronne"
+    url: "https://www.linkedin.com/in/eric-aquaronne/"
+    affiliation: "IBM"
+    img: "eric.jpg"
+    bio: "Experienced Business Unit Executive with a demonstrated history of working in the information technology and services industry. Skilled in Cloud technologies, Enterprise Hardware & Software, Enterprise Systems Architecture and Quantum Computing. Strong operations professional with business management skills and a technical understanding of how things work too, and experiences in all continents."
+ander:
+    name: "Ander Ocha Gilo2"
+    url: "https://www.linkedin.com/"
+    affiliation: "IBM"
+    img: "human.jpg"
+    bio: ""
+panda:
+    name: "Dr D.K. Panda"
+    url: "https://web.cse.ohio-state.edu/~panda.2/"
+    affiliation: "Ohio State University"
+    img: "human.jpg"
+    bio: "Dr Panda is a Professor and University Distinguished Scholar of Computer Science and Engineering at The Ohio State University. He leads the Network-Based Computing Research Group. He is the Director of the newly established $20M NSF-AI Institute ICICLE . "
+florin:
+    name: "Florin Manaila"
+    url: "https://www.linkedin.com/in/cognitivecomputing/"
+    affiliation: "IBM"
+    img: "florin.jpg"
+    bio: "His current role focuses on Strategy/Management and Enterprise Transformation by adopting of High Performance Computing, Deep Learning, Emerging AI Technologies in order to help them to rapidly transform the way businesses operate, solve problems, and gain competitive advantage."
+jenna:
+    name: "Jenna Murilla"
+    url: "https://www.linkedin.com/in/jennamurillo/"
+    affiliation: "IBM"
+    img: "jenna.jpg"
+    bio: "Graduated with honors from Texas A&M University with a Bachelor of Science in Psychology and a Minor in Business. She retain excellent mathematical, analytical, and communication skills. Extensive background in the latest social media platforms."
+
 robert:
     name: "Robert Settlage"
     url: "https://www.linkedin.com/in/bob-settlage/"
