@@ -45,7 +45,7 @@ HACKEVENT 2022 will be a hybrid 2-2.5 day event organised by Advanced Research c
   <div class="row">
   {% for p in site.data.speakers %}
   {% capture id %}{{ p[0] }}{% endcapture %}
-  {% if forloop.index>5 and forloop.index < %}
+  {% if forloop.index>5 %}
   {% include profile.html p=p %}
   {% endif %}
   {% endfor %}
