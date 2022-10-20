@@ -32,3 +32,28 @@ mark:
     affiliation: "Neural Magic"
     img: "mark.jpg"
     bio: "Leader of ML and engineering teams focused on the design, development, and implementation of cutting-edge technologies and products. With over 12 years of experience in software engineering and machine learning, well-practiced in building and managing teams for both closed source and open source software solutions. Currently the Director of Machine Learning at Neural Magic, I am focused on lowering the cost, improving the performance, and increasing the adoption of deep learning technologies through SOTA research and engineering. An active GitHub contributor, blogger, and researcher with published papers in top ML conferences. Holds a Master's degree in robotics engineering from Washington University in St Louis along with a bachelors in applied math and a bachelor's in mechanical engineering."
+robert:
+    name: "Robert Settlage"
+    url: "https://www.linkedin.com/in/bob-settlage/"
+    affiliation: "Advacned Research Computing @ VT"
+    img: "robert.jpg"
+    bio: "As a senior data science and data analytics leader, He work at the intersection of data, statistics, and computational science. His entire career has been dedicated to generating, processing, and ultimately, making sense of data to enable insights and discoveries."
+mayank:
+    name: "Mayank Agarwal"
+    url: "https://www.linkedin.com/in/magrwl/"
+    affiliation: "Advacned Research Computing @ VT"
+    img: "mayank.jpg"
+    bio: "Research Assistant"
+ayush:
+    name: "Ayush Chaturvedi"
+    url: "https://www.linkedin.com/in/ayushchatur/"
+    affiliation: "Advacned Research Computing @ VT"
+    img: "ayush.jpg"
+    bio: "Research Assistant"
+antorip:
+    name: "Antorip Sahu"
+    url: "https://www.linkedin.com/in/antoripsahu/"
+    affiliation: "Wirless @ VT"
+    img: "antorip.jpg"
+    bio: "Research Assistant"
+
