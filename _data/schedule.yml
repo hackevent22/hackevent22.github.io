@@ -1,96 +1,116 @@
 opening:
   event: "Welcome"
-  start: "09:00 AM - 09:15 AM"
+  start: "Oct 28  5:00 PM - 5:15 PM"
   type: "General"
 Keynote1:
-  event: "Huang"
-  title: "Spatially and Temporally Adaptive Neural Networks"
-  start: "09:15 AM - 10:00 AM"
+  event: "feng"
+  title: "Welcome Address and Introductions"
+  start: "Oct 28  5:00 PM - 5:15 PM"
   type: "Keynote"
 invited1:
-  event: "Tuytelaars"
-  title: "Where to look next ? Different strategies for image exploration under partial observability."
-  start: "10:00 AM - 10:30 AM"
+  event: "kulina"
+  title: "OpenPower Foundation and Features"
+  start: "Oct 28  5:15 PM - 5:45 PM"
   type: "Invited"
 invited2:
-  event: "XHuang"
-  title: "Incorporating Dynamic Structures into Pre-trained Language Models"
-  start: "10:30 AM - 11:00 AM"
+  event: "todd"
+  title: "LibreBMC"
+  start: "Oct 28  5:45 PM - 6:15 PM"
   type: "Invited"
-contrib1:
-  event: "Does Continual Learning Equally Forget All Parameters?"
-  author: "Haiyan Zhao"
-  start: "11:00 AM - 11:15 AM"
-  type: "Contributed"
-contrib2:
-  event: "PA-GNN: Parameter-Adaptive Graph Neural Networks"
-  author: "Yuxin Yang"
-  start: "11:15 AM - 11:30 AM"
-  type: "Contributed"
-contrib3:
-  event: "Triangular Dropout: Variable Network Width without Retraining"
-  author: "Edward Staley"
-  start: "11:30 AM - 11:45 AM"
-  type: "Contributed"
+invited3:
+  event: boris
+  title: "Contributing to vertical open source"
+  start: "Oct 28  6:15 PM - 6:45 PM"
+  type: "Invited"
+invited4:
+  event: mark
+  title: "Introduction to Sparsity in Deep Learning"
+  start: "Oct 28  6:45 PM - 7:00 PM"
+  type: "Invited"
 contrib4:
-  event: "A Theoretical View on Sparsely Activated Networks"
-  author: "Nishanth Dikkala"
-  start: "11:45 AM - 12:00 PM"
+  event: "Lecture on Sparsity + Leveraging the Sparse-ML Library  (Hands-On)"
+  author: "Neural Magic"
+  start: "Oct 29  11:00 AM - 1:00 PM"
   type: "Contributed"
+invited5:
+  event: peter
+  title: "Open power ISA and MMA features in POWER 10 CPU"
+  start: "Oct 28  1:00 PM - 2:00 PM"
+  type: "Invited"
 sess1:
   event: "Lunch Break"
-  start: "12.00 PM - 13:30 PM"
+  start: "Oct 29 2.00 PM - 3:00 PM"
   type: "Session"
-panel1:
-  event: "Dynamic Neural Network: Present and Future"
-  speakers: "Tal Schuster, Andrea Gesmundo, Razvan Pascanu, Yanzhi Wang"
-  start: "13:30 PM - 14:30 PM"
-  type: "Panel"
-Keynote2:
-  event: "Sun"
-  title: "Organizing memories for generalization in complementary learning systems"
-  start: "14:30 PM - 15:15 PM"
-  type: "Keynote"
-sess2:
-  event: "Poster Session"
-  start: "15.15 PM - 16:15 PM"
-  type: "Session"
-invited3:
-  event: "Locatello"
-  title: "Deriving modular inductive biases from the principle of independent mechanisms"
-  start: "16:15 PM - 16:45 PM"
+invited5:
+  event: farhang
+  title: "Heterogeneous Integration of OpenPower Cores"
+  start: "Oct 29  3:00 PM - 4:00 PM"
   type: "Invited"
-contrib5:
-  event: "Supernet Training for Federated Image Classification"
-  author: "Taehyeon Kim"
-  start: "16:45 AM - 17:00 PM"
-  type: "Contributed"
-contrib6:
-  event: "Achieving High TinyML Accuracy through Selective Cloud Interactions"
-  author: "Anil Kag"
-  start: "17:00 PM - 17:15 PM"
-  type: "Contributed"
-contrib7:
-  event: "Slimmable Quantum Federated Learning"
-  author: "Won Joon Yun"
-  start: "17:15 PM - 17:30 PM"
-  type: "Contributed"
-contrib8:
-  event: "Sparse Relational Reasoning with Object-centric Representations"
-  author: "Alex F Spies"
-  start: "17:30 PM - 17:45 PM"
-  type: "Contributed"
-contrib9:
-  event: "Play It Cool: Dynamic Shifting Prevents Thermal Throttling"
-  author: "Yang Zhou"
-  start: "17:45 PM - 18:00 PM"
-  type: "Contributed"
-contrib10:
-  event: "Efficient Sparsely Activated Transformers"
-  author: "Salar Latifi"
-  start: "18:00 PM - 18:15 PM"
-  type: "Contributed"
+invited8:
+  event: stdh
+  title: "A Demo on FPGA simulation and RTL to GDS II Flow"
+  start: "Oct 29  4:00 PM - 5:00 PM"
+  type: "Invited"
+sess1:
+  event: "Lab I"
+  start: "Oct 29 5.00 PM"
+  type: "Session"
+invited9:
+  event: ayush
+  title: "Deep Learning @ Scale (Lecture)"
+  start: "Oct 29  11:00 AM - 12:00 PM"
+  type: "Invited"
+invited10:
+  event: eric
+  title: "mayflower Autonomous Ship and Enterprise AI"
+  start: "Oct 29  11:00 AM - 12:00 PM"
+  type: "Invited"
+invited11:
+  event: ayush
+  title: "Profiling and Optimizing Deep Learning Applications (Hands-On)"
+  start: "Oct 29  12:00 PM - 1:00 PM"
+  type: "Invited"
+invited12:
+  event: ander
+  title: "Open Shift and Use Cases"
+  start: "Oct 29  12:00 PM - 1:00 PM"
+  type: "Invited"  
+sess21:
+  event: "Lunch Break"
+  start: "Oct 30 1:00 PM - 2:00 PM"
+  type: "Session"
+
+invited13:
+  event: robert
+  title: "Overview and tutorial on Docker and Singularity"
+  start: "Oct 30  2:00 PM - 3:00 PM"
+  type: "Invited"
+invited14:
+  event: panda
+  title: "Distributed Deep Learning using POWER Foundation"
+  start: "Oct 30  2:00 PM - 3:00 PM"
+  type: "Invited"
+invited15:
+  event: mayank
+  title: "Creating Interactive and Passenger Application with Open OnDemand"
+  start: "Oct 30  3:00 PM - 4:00 PM"
+  type: "Invited"
+invited16:
+  event: florin
+  title: "Enterprise AI Solutions and Demo"
+  start: "Oct 30  4:00 PM - 5:00 PM"
+  type: "Invited"
+invited17:
+  event: jenna
+  title: "POWER Developer Exchange and PSAI update"
+  start: "Oct 30  4:00 PM - 5:00 PM"
+  type: "Invited"
+invited18:
+  event: ayush
+  title: "Migrating your custom Jupyter Notebook to ARC resources"
+  start: "Oct 30  4:00 PM - 5:00 PM"
+  type: "Invited"  
 closing:
-  event: "Closing Remarks and Happy Hour"
-  start: "18.15 PM - 8:00 PM"
+  event: "Closing Remarks"
+  start: "5:15 PM"
   type: "Session"
