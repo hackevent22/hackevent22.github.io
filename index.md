@@ -45,7 +45,7 @@ HACKEVENT 2022 will be a hybrid 2-2.5 day event organised by Advanced Research c
   <div class="row">
   {% for p in site.data.speakers %}
   {% capture id %}{{ p[0] }}{% endcapture %}
-  {% if forloop.index>5 %}
+  {% if forloop.index>5 and forloop.index < %}
   {% include profile.html p=p %}
   {% endif %}
   {% endfor %}
@@ -73,18 +73,11 @@ HACKEVENT 2022 will be a hybrid 2-2.5 day event organised by Advanced Research c
   {% endif %}
   {% endfor %}
   </div>
-  <h1> Sponsors </h1>
-  <div class="row">
-  {% for p in site.data.panelchairs %}
-  {% capture id %}{{ p[0] }}{% endcapture %}
-  {% include profile.html p=p %}
-  {% endfor %}
-  </div>
+
 </div>
 <hr>
 
 
-# Key Note by:
 <!-- prettier-ignore -->
 <!-- original list class in the template
   <ul class="list-group list-group-flush">
