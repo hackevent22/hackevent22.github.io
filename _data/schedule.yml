@@ -1,7 +1,3 @@
-opening:
-  event: "Welcome"
-  start: "Oct 28  5:00 PM - 5:15 PM"
-  type: "General"
 Keynote1:
   event: "feng"
   title: "Welcome Address and Introductions"
@@ -41,12 +37,12 @@ sess1:
   event: "Lunch Break"
   start: "Oct 29 2.00 PM - 3:00 PM"
   type: "Session"
-invited5:
+invited6:
   event: farhang
   title: "Heterogeneous Integration of OpenPower Cores"
   start: "Oct 29  3:00 PM - 4:00 PM"
   type: "Invited"
-invited8:
+invited7:
   event: stdh
   title: "A Demo on FPGA simulation and RTL to GDS II Flow"
   start: "Oct 29  4:00 PM - 5:00 PM"
@@ -55,7 +51,7 @@ sess1:
   event: "Lab I"
   start: "Oct 29 5.00 PM"
   type: "Session"
-invited9:
+invited8:
   event: ayush
   title: "Deep Learning @ Scale (Lecture)"
   start: "Oct 29  11:00 AM - 12:00 PM"
