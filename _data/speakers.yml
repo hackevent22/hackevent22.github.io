@@ -53,7 +53,14 @@ ayush:
 antorip:
     name: "Antorip Sahu"
     url: "https://www.linkedin.com/in/antoripsahu/"
-    affiliation: "Wirless @ VT"
+    affiliation: "Wireless @ VT"
     img: "antorip.jpg"
     bio: "Research Assistant"
+nolan:
+    name: "Nolan Donovan"
+    url: "https://www.linkedin.com/in/nolan-donovan/"
+    affiliation: "IEEE @ VT"
+    img: "antorip.jpg"
+    bio: "President (IEEE@VT) | Currently a Virginia Tech Computer Engineering student studying Networking and Cybersecurity with a secondary focus in Chip-Scale Integration."
+    
 
