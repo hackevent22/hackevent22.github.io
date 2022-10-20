@@ -14,10 +14,10 @@ kulina:
 
 boris:
     name: "Boris Shingarov"
-    url: "https://homes.esat.kuleuven.be/~tuytelaa/"
-    affiliation: "KU Leuven"
-    img: "tuytelaars.jpeg"
-    bio: "Prof. Tuytelaars' research focuses on dynamic neural networks, continual learning and representation learning for computer vision. As a recognized expert in this field, she has collected over 59,000 citations, received several awards and was Program Chair of ECCV'14 and CVPR'21, among other things."
+    url: "http://www.shingarov.com/"
+    affiliation: "Labware Inc, Canada"
+    img: "boris.jpeg"
+    bio: "VM Engineer"
 
 jan:
     name: "Jan Vrany"
