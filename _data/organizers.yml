@@ -1,30 +1,39 @@
-Levorato:
-  name: "Marco Levorato"
-  url: "https://www.ics.uci.edu/~mlevorat/"
-  affiliation: "UC Irvine"
-  img: "levorato.jpg"
-Scardapane:
-  name: "Simone Scardapane"
-  url: "https://www.sscardapane.it"
-  affiliation: "Sapienza University (Rome)"
-  img: "scardapane.jpg"
-McDanel: 
-  name: "Bradley McDanel"
-  url: "https://bradmcdanel.com"
-  affiliation: "Franklin & Marshall College"
-  img: "mcdanel.jpg"
-Banino: 
-  name: "Andrea Banino"
-  url: "https://scholar.google.com/citations?hl=en&user=QD-sf3IAAAAJ/"
-  affiliation: "DeepMind"
-  img: "banino.jpg"
-Riquelme:  
-  name: "Carlos Riquelme"
-  url: "https://rikel.github.io/"
-  affiliation: "Google Brain"
-  img: "riquelme.png"
-Trzcinski:  
-  name: "Tomasz Trzcinski"
-  url: "https://ii.pw.edu.pl/~ttrzcins/"
-  affiliation: "Warsaw University of Technology & Jagiellonian University & Tooploox"
-  img: "trzcinski.jpg"
+robert:
+    name: "Robert Settlage"
+    url: "https://www.linkedin.com/in/bob-settlage/"
+    affiliation: "Advacned Research Computing @ VT"
+    img: "robert.jpg"
+    bio: "As a senior data science and data analytics leader, He work at the intersection of data, statistics, and computational science. His entire career has been dedicated to generating, processing, and ultimately, making sense of data to enable insights and discoveries."
+
+ganesan:
+    name: "Ganesan Narayanasamy"
+    url: "https://www.linkedin.com/in/ganesannarayanasamy/"
+    affiliation: "IBM"
+    img: "ganesan.jpg"
+    bio: "As senior Technical Computing and client care manager, Ganesh's responsibilities include building the IBM technical computing brand across Growth Market Unit and strengthening the Platform computing offerings. In addition , he frequently conducts several technical enablement programs
+for business partners, customers and University faculties. He travelled across entire GMU and planning to capture market opportunities for IBM. "
+antorip:
+    name: "Antorip Sahu"
+    url: "https://www.linkedin.com/in/antoripsahu/"
+    affiliation: "Wireless @ VT"
+    img: "antorip.jpg"
+    bio: "Research Assistant"
+nolan:
+    name: "Nolan Donovan"
+    url: "https://www.linkedin.com/in/nolan-donovan/"
+    affiliation: "IEEE @ VT"
+    img: "antorip.jpg"
+    bio: "President (IEEE@VT) | Currently a Virginia Tech Computer Engineering student studying Networking and Cybersecurity with a secondary focus in Chip-Scale Integration."
+mayank:
+    name: "Mayank Agarwal"
+    url: "https://www.linkedin.com/in/magrwl/"
+    affiliation: "Advacned Research Computing @ VT"
+    img: "mayank.jpg"
+    bio: "Research Assistant"
+ayush:
+    name: "Ayush Chaturvedi"
+    url: "https://www.linkedin.com/in/ayushchatur/"
+    affiliation: "Advacned Research Computing @ VT"
+    img: "ayush.jpg"
+    bio: "Research Assistant"   
+    
