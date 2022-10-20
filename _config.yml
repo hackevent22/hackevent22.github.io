@@ -23,7 +23,6 @@ description: HackEvent 22 at Virgia Tech
 # List of links in the navigation bar
 navbar-links:  
   Home: 'index'
-  Agenda: "agenda"
   Speakers: "speakers"
   Registration: "registration"
   Schedule: "schedule"
