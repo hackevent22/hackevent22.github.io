@@ -12,12 +12,12 @@ ganesan:
     img: "ganesan.jpg"
     bio: "As senior Technical Computing and client care manager, Ganesh's responsibilities include building the IBM technical computing brand across Growth Market Unit and strengthening the Platform computing offerings. In addition , he frequently conducts several technical enablement programs
 for business partners, customers and University faculties. He travelled across entire GMU and planning to capture market opportunities for IBM. "
-antorip:
-    name: "Antorip Sahu"
-    url: "https://www.linkedin.com/in/antoripsahu/"
-    affiliation: "Wireless @ VT"
-    img: "antorip.jpg"
-    bio: "Research Assistant"
+ayush:
+    name: "Ayush Chaturvedi"
+    url: "https://www.linkedin.com/in/ayushchatur/"
+    affiliation: "Advacned Research Computing @ VT"
+    img: "ayush.jpg"
+    bio: "Research Assistant"  
 nolan:
     name: "Nolan Donovan"
     url: "https://www.linkedin.com/in/nolan-donovan/"
@@ -30,10 +30,10 @@ mayank:
     affiliation: "Advacned Research Computing @ VT"
     img: "mayank.jpg"
     bio: "Research Assistant"
-ayush:
-    name: "Ayush Chaturvedi"
-    url: "https://www.linkedin.com/in/ayushchatur/"
-    affiliation: "Advacned Research Computing @ VT"
-    img: "ayush.jpg"
-    bio: "Research Assistant"   
+antorip:
+    name: "Antorip Sahu"
+    url: "https://www.linkedin.com/in/antoripsahu/"
+    affiliation: "Wireless @ VT"
+    img: "antorip.jpg"
+    bio: "Research Assistant"
     
