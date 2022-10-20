@@ -66,7 +66,7 @@ panda:
     name: "Dr D.K. Panda"
     url: "https://web.cse.ohio-state.edu/~panda.2/"
     affiliation: "Ohio State University"
-    img: "human.jpg"
+    img: "panda.jpg"
     bio: "Dr Panda is a Professor and University Distinguished Scholar of Computer Science and Engineering at The Ohio State University. He leads the Network-Based Computing Research Group. He is the Director of the newly established $20M NSF-AI Institute ICICLE . "
 florin:
     name: "Florin Manaila"
