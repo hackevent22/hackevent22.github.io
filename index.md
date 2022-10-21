@@ -1,7 +1,7 @@
 ---
 layout: page
-title: HackEvent 22 @ Virginia Tech
-subtitle: Oct 28-30 - 2022 Virginia Tech - Blacksburg, VA
+title: HackEvent'22 @ Virginia Tech
+subtitle: Oct 28-30, 2022, Virginia Tech, Blacksburg, VA
 use-site-title: true
 header-img: "https://brand.vt.edu/content/brand_vt_edu/en/identity/logo-guidelines/jcr:content/content/adaptiveimage.transform/xl-medium/image.jpg"
 share-img: "https://brand.vt.edu/content/brand_vt_edu/en/identity/logo-guidelines/jcr:content/content/adaptiveimage.transform/xl-medium/image.jpg"
@@ -20,9 +20,9 @@ HACKEVENT 2022 will be a hybrid 2-2.5 day event organised by Advanced Research c
 
 <!-- * [Link to the **live sessions** at Hackevent website](https://www.youtube.com). Note that registration to the hackevent is required in order to access the ARC resources. -->
 
-**KeyNote:** Oct 28, 2022- 5PM by Dr Wu Feng <br>
-**Registration Deadline:** Oct 25, 2022 (Anywhere on Earth) <br>
-**Account Access ARC Resources:** Oct 26, 2022 <br>
+**KeyNote:** Oct 28th, 2022 - 5PM by Dr Wu Feng <br>
+**Registration Deadline:** Oct 25th, 2022 (Anywhere on Earth) <br>
+**Account Access ARC Resources:** Oct 26th, 2022 <br>
 **IBM Sessions:** Oct 28-30th, 2022 <br>
 **Sessions by Open OnDemand:** Oct 30th, 2022 <br>
 **Session by Neural Magic:** Oct 29th, 2022 <br>
