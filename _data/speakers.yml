@@ -84,20 +84,20 @@ jenna:
 robert:
     name: "Robert Settlage"
     url: "https://www.linkedin.com/in/bob-settlage/"
-    affiliation: "Advacned Research Computing @ VT"
+    affiliation: "Advanced Research Computing @ VT"
     img: "robert.jpg"
     bio: "As a senior data science and data analytics leader, He work at the intersection of data, statistics, and computational science. His entire career has been dedicated to generating, processing, and ultimately, making sense of data to enable insights and discoveries."
 
 mayank:
     name: "Mayank Agarwal"
     url: "https://www.linkedin.com/in/magrwl/"
-    affiliation: "Advacned Research Computing @ VT"
+    affiliation: "Advanced Research Computing @ VT"
     img: "mayank.jpg"
     bio: "Research Assistant"
 ayush:
     name: "Ayush Chaturvedi"
     url: "https://www.linkedin.com/in/ayushchatur/"
-    affiliation: "Advacned Research Computing @ VT"
+    affiliation: "Advanced Research Computing @ VT"
     img: "ayush.jpg"
     bio: "Research Assistant"
 
