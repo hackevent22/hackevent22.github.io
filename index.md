@@ -14,6 +14,7 @@ share-img: "https://brand.vt.edu/content/brand_vt_edu/en/identity/logo-guideline
 HACKEVENT 2022 will be a hybrid 2-2.5 day event organised by Advanced Research Computing at Virginia Tech. The goal of this event is to educate students empirically on how to efficiently leverage computer architecture and software for heterogeneous applications and develop critical thinking towards synergistic evaluation of software and hardware for applications ranging from artificial intelligence to distributed systems.  The event will feature guest lectures, hands-on training sessions and tutorials from professionals in industry and academia.  The event will be free for students currently pursuing a degree in any academic institution. The event will take place in Eastern Time Zone (New York).  Upon successful completion of the event the students will receive a completion certificate and prizes for a mini competition also to be held with the event.
 
 **Announcements**
+* Registration is now open !!! [Register here](https://docs.google.com/forms/d/e/1FAIpQLSdcRsMV9lZtvtsZEAIOOo9p9b4ZZFHrd4RF22rJd9PJnVrktQ/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link)
 * Our Flyer is out Now!!! Check [this out](./postermaroon.pdf) 
 * Our schedule is [announced](https://hackevent22.github.io/schedule/)!
 * Our Speakers are finalized and [available](https://hackevent22.github.io/) now!
