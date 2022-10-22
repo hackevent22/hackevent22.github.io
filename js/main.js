@@ -6,6 +6,11 @@ var main = {
   numImgs : null,
 
   init : function() {
+    let navbar = document.getElementById('main-navbar')
+//     let li = navbar.getElementByTag
+    let link = 'https://docs.google.com/forms/d/e/1FAIpQLSdcRsMV9lZtvtsZEAIOOo9p9b4ZZFHrd4RF22rJd9PJnVrktQ/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link'
+    let a_list = document.getElementById('main-navbar').getElementsByTagName('li')[2].getElementsByTagName('a') 
+    a_list[0].setAttribute('href',link)
     // Shorten the navbar after scrolling a little bit down
     $(window).scroll(function() {
         if ($(".navbar").offset().top > 50) {
