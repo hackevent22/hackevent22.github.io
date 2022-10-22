@@ -24,7 +24,7 @@ description: HackEvent 22 at Virgia Tech
 navbar-links:  
   Home: 'index'
   Speakers: "speakers"
-  Registration: "registration"
+  Registration: "https://docs.google.com/forms/d/e/1FAIpQLSdcRsMV9lZtvtsZEAIOOo9p9b4ZZFHrd4RF22rJd9PJnVrktQ/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link"
   Schedule: "schedule"
   Organizers: "#organizers"
 
