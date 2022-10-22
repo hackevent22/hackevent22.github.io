@@ -99,5 +99,5 @@ ayush:
     url: "https://www.linkedin.com/in/ayushchatur/"
     affiliation: "Advanced Research Computing @ VT"
     img: "ayush.jpg"
-    bio: "Research Assistant"
+    bio: "Ayush is software architect/engineer and is currently pursuing his Masters from Virgina Tech in Computer Engineering under my advisor Dr. Wu Feng and working as a GRA at Advanced Research Computing . He has 5 yrs. of experience in software industry and holds a Bachelor's degree in Computer Engineering from NIT Kurukshtera, Kurukshetra, India. He has a proven track record of creating frameworks from scratch in lambda architecture, event driven frameworks, ETL pipelines and design patterns using distributed data platforms such as kafka streams, apache pulsar, hadoop, presto. He is proficient in Distributed systems and High Performance Computing solutions and achitecture aware optimizations on heterogeneous platforms including GPGPU, APUs, XPUs and multicore CPUs in multi node setting."
 
