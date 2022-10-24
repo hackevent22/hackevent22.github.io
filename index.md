@@ -106,4 +106,4 @@ HACKEVENT 2022 will be a hybrid 2-2.5 day event organised by Advanced Research C
 
 <hr>
 
-Contact: [hackevent-22g@vt.edu](hackevent-22g@vt.edu)
+Contact: [hackevent22-g@vt.edu](hackevent22-g@vt.edu)
