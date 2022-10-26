@@ -44,6 +44,19 @@ farhang:
     affiliation: "BroadPak Corporation"
     img: "farhan.jpg"
     bio: "President and CTO"
+
+tod:
+    name: "Todd Rosendahl"
+    url: ""
+    affiliation: "IBM"
+    img: "human.jpg"
+    bio: ""
+ben:
+    name: "Ben Sandbrook"
+    url: "https://www.linkedin.com/in/bensandbrook/"
+    affiliation: "Advanced Rsearch Computing @ VT"
+    img: "ben.jpeg"
+    bio: "Ben has worked as a systems engineer for more than a decade. Ben is subject matter expert in container orchestration and linux administration."
 stdh:
     name: "Dr. Satyadhyan"
     url: "https://www.linkedin.com/in/chickerursr/"
