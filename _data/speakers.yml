@@ -18,6 +18,12 @@ boris:
     affiliation: "Labware Inc, Canada"
     img: "boris.jpg"
     bio: "VM Engineer"
+todd:
+    name: "Todd Rosendahl"
+    url: ""
+    affiliation: "IBM"
+    img: "human.jpg"
+    bio: ""
 
 jan:
     name: "Jan Vrany"
@@ -25,6 +31,13 @@ jan:
     affiliation: "Labware Inc, Canada"
     img: "jan.jpg"
     bio: "VM Engineer"
+    
+mark:
+    name: "Mark Kurtz"
+    url: "https://www.linkedin.com/in/markkurtzjr/"
+    affiliation: "Neural Magic"
+    img: "mark.jpg"
+    bio: "Leader of ML and engineering teams focused on the design, development, and implementation of cutting-edge technologies and products. With over 12 years of experience in software engineering and machine learning, well-practiced in building and managing teams for both closed source and open source software solutions. Currently the Director of Machine Learning at Neural Magic, I am focused on lowering the cost, improving the performance, and increasing the adoption of deep learning technologies through SOTA research and engineering. An active GitHub contributor, blogger, and researcher with published papers in top ML conferences. Holds a Master's degree in robotics engineering from Washington University in St Louis along with a bachelors in applied math and a bachelor's in mechanical engineering."
 
 shaikh:
     name: "Shaikh Quader "
@@ -40,12 +53,6 @@ sivak:
     img: "sivak.jpeg"
     bio: "Shiva is a database architect and experienced Db2 Database Administrator with Business application development for large organizations using IBM's Db2 supported AIX, Client Server and Mainframe environments."
 
-mark:
-    name: "Mark Kurtz"
-    url: "https://www.linkedin.com/in/markkurtzjr/"
-    affiliation: "Neural Magic"
-    img: "mark.jpg"
-    bio: "Leader of ML and engineering teams focused on the design, development, and implementation of cutting-edge technologies and products. With over 12 years of experience in software engineering and machine learning, well-practiced in building and managing teams for both closed source and open source software solutions. Currently the Director of Machine Learning at Neural Magic, I am focused on lowering the cost, improving the performance, and increasing the adoption of deep learning technologies through SOTA research and engineering. An active GitHub contributor, blogger, and researcher with published papers in top ML conferences. Holds a Master's degree in robotics engineering from Washington University in St Louis along with a bachelors in applied math and a bachelor's in mechanical engineering."
 peter:
     name: "Peter Hofstee"
     url: "https://www.linkedin.com/in/peter-hofstee-6b4886b/"
@@ -59,12 +66,7 @@ farhang:
     img: "farhan.jpg"
     bio: "President and CTO"
 
-todd:
-    name: "Todd Rosendahl"
-    url: ""
-    affiliation: "IBM"
-    img: "human.jpg"
-    bio: ""
+
 ben:
     name: "Ben Sandbrook"
     url: "https://www.linkedin.com/in/bensandbrook/"
