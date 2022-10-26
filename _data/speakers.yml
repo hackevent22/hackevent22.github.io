@@ -26,6 +26,20 @@ jan:
     img: "jan.jpg"
     bio: "VM Engineer"
 
+shaikh:
+    name: "Shaikh Quader "
+    url: "https://www.linkedin.com/in/shaikhquader/"
+    affiliation: "IBM"
+    img: "shaik.jpeg"
+    bio: "Shaikh’s technical career at IBM spans 17 years. In the first 11 years, he was a Java developer and a tech lead when he and his teams designed, implemented, and deployed web-based tools for over 20 thousand support professionals at IBM. In parallel, he became an expert and researcher on search engine technology. Since 2016, he has been the machine learning lead for multiple functional areas at IBM. Shaikh is now pursuing a Ph.D. in machine learning. He managed 4 university research projects for IBM. He has published 10 scientific papers, wrote 9 articles, filed 8 patents, and spoke at many external events on topics related to machine learning. Shaikh believes in growth-mindset. At present, he is applying zettelkasten, atomic habit, and deep work principles to optimize his workflow for knowledge work."
+    
+sivak:
+    name: "Sivakumar Shanmugam"
+    url: "https://www.linkedin.com/in/sivakumar-shanmugam-88a62212/"
+    affiliation: "Werner Enterprises"
+    img: "sivak.jpeg"
+    bio: "Shiva is a database architect and experienced Db2 Database Administrator with Business application development for large organizations using IBM's Db2 supported AIX, Client Server and Mainframe environments."
+
 mark:
     name: "Mark Kurtz"
     url: "https://www.linkedin.com/in/markkurtzjr/"
@@ -45,7 +59,7 @@ farhang:
     img: "farhan.jpg"
     bio: "President and CTO"
 
-tod:
+todd:
     name: "Todd Rosendahl"
     url: ""
     affiliation: "IBM"
