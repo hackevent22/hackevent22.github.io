@@ -25,7 +25,7 @@ invited4:
   type: "Invited"
 invited41:
   event: "boris"
-  title: "Introduction to Sparsity in Deep Learning"
+  title: "Contributing to vertical open-source"
   start: "Oct 28  7:15 PM - 7:40 PM - Whittemore 300"
   type: "Invited"
 invited5:
@@ -58,21 +58,21 @@ sess2:
   type: "Session"
 invited9:
   event: "ayush"
-  title: "Deep Learning @ Scale (Lecture) - McBryde 218"
-  start: "Oct 30  11:00 AM - 12:00 PM"
+  title: "Deep Learning @ Scale (Lecture)"
+  start: "Oct 30  11:00 AM - 12:00 PM - McBryde 218"
   type: "Invited"
 invited10:
   event: "eric"
-  title: "mayflower Autonomous Ship and Enterprise AI - McBryde 209"
-  start: "Oct 30  11:00 AM - 11:45 AM"
+  title: "mayflower Autonomous Ship and Enterprise AI"
+  start: "Oct 30  11:00 AM - 11:45 AM - McBryde 209"
   type: "Invited"
 invited11:
   event: "ayush"
-  title: "Profiling and Optimizing Deep Learning Applications (Hands-On) - McBryde 218"
+  title: "Profiling and Optimizing Deep Learning Applications (Hands-On)"
   start: "Oct 30  1:00 PM - 2:00 PM - McBryde 218"
   type: "Invited"
 invited12:
-  event: "ander"
+  event: "sivak"
   title: "Enterprise AI features and Demo"
   start: "Oct 30  11:45 AM - 12:30 PM - McBryde 209"
   type: "Invited"
@@ -102,7 +102,7 @@ invited16:
   start: "Oct 30  1:15 PM - 2:00 PM  - McBryde 209"
   type: "Invited"
 invited17:
-  event: "jenna"
+  event: "shaik"
   title: "Build, Deploy, use ML pipeline inside the database using SQL"
   start: "Oct 30  2:00 PM - 3:00 PM  - McBryde 209"
   type: "Invited"
