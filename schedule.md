@@ -11,7 +11,7 @@ share-img: "https://brand.vt.edu/content/brand_vt_edu/en/identity/logo-guideline
 # Schedule
 
 #### Friday, Oct 22, 2022 
-#### Location: TBA
+#### Location: Whittemore hall 300 on 28th Oct | MyBryde 209|218 for Oct 29th and 30th
 #### All times are in ET 
 
 <!-- #### [Link to the live sessions at ICML website](https://www.youtube.com). Note that registration to the ICML main conference is required in order to access the website. -->
